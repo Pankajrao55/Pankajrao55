@@ -44,6 +44,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pankajrao55/Pankajrao55/output/snake.svg" alt="Snake animation" />
-
-###
